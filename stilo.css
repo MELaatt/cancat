@@ -1,0 +1,195 @@
+body {
+
+    background-image: url('./fondo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 80%;
+    margin: auto;
+
+}
+
+@font-face{
+    font-family: holyfat;
+    src: url(Holyfat.ttf)
+}
+
+.logo{
+    width: 16rem;
+    align-items: center;
+}
+
+.boton {
+    border-radius: 100%;
+}
+
+.video {
+    display: flex;
+    align-items: center;
+    height: 10rem;
+}
+
+@font-face {
+    font-family: Holyfat;
+    src: url(/Font/Holyfat.ttf);
+}
+
+
+
+.navbar-nav a.nav-link {
+    font-size: 3rem;
+    color: #07d000;
+    border-radius: 12%;
+    font-family: Holyfat;
+    margin: 1rem;
+
+    src: url(/Font/Holyfat.ttf);
+
+}
+
+.nav-link:hover {
+    background-color: #00df07;
+    color: white !important;
+    
+}
+
+.inscribete {
+    width: 12rem;
+    height: 5rem;
+    border-radius: 50%;
+    border: none;
+    text-decoration: none;
+    background-color: #4CDA00;
+    align-items: center;
+}
+
+.inscribete:hover {
+    background-color: #5bff02;
+}
+
+.verde {
+    font-size: 1rem;
+    color: #4CDA00;
+}
+
+.azul {
+    font-size: 1rem;
+    color: rgb(0, 200, 255);
+}
+
+.caja1 {
+    display: flex;
+    align-items: center;
+
+}
+
+.parrafo{
+    background-color:#4CDA00 ;
+}
+
+#primeros{
+    font-size: 2rem;
+}
+
+#p-mascotas{
+    font-size: 1.5rem;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+#imagen{
+    max-width: 100%;
+    height: 85%;
+}
+
+
+#objetivo{
+    display: flex;
+    justify-content: center;
+   padding: o.5rem;
+   background-color: rgba(240, 248, 255, 0.573);
+   border-radius: 1rem;
+    font-family: holyfat;
+    color: #4bd600;
+    font-size: 1.5rem;
+    
+}
+
+#temas{
+    display: flex;
+    justify-content: center;
+   padding: o.5rem;
+   background-color: rgba(240, 248, 255, 0.573);
+   border-radius: 1rem;
+    font-family: holyfat;
+    color: #4bd600;
+    font-size: 1.5rem;
+}
+
+#beneficios{
+    display: flex;
+    justify-content: center;
+    font-family: holyfat;
+    color: #4bd600;
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+#texto-o{
+    padding: 5%;
+    background-color: #00df0798;
+    margin-top: 1rem;
+    color: aliceblue;
+}
+
+#puntos{
+    width: 100%;
+    padding: 5%;
+    background-color: #00df0798;
+    margin-top: 1rem;
+    color: aliceblue;
+}
+
+#video{
+    display: flex;
+    justify-content: end;
+    height: 90%;
+}
+
+#s-2{
+    height: 15rem;
+}
+
+#circulo-1{
+    display: flex;
+    justify-content: center;
+}
+
+#circulo-2{
+    display: flex;
+    justify-content: center;
+}
+
+#circulo-3{
+    display: flex;
+    justify-content: center;
+}
+
+.fin{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.479);
+    width: 100%;
+    text-align: center;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    width: 4rem;
+    margin-top: 3rem;
+    margin-left: 2.5rem;
+}
+
+
